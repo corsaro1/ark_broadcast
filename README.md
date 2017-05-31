@@ -10,7 +10,7 @@ sudo apt-get install npm
 
 npm install arkecosystem/ark-js#mainnet
 
-wget https://raw.githubusercontent.com/corsaro1/lisk_broadcast/master/arktx.js
+wget https://raw.githubusercontent.com/corsaro1/ark_broadcast/master/arktx.js
 
 mainnet:
 
