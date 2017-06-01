@@ -15,6 +15,7 @@ npm install request
 wget https://raw.githubusercontent.com/corsaro1/ark_broadcast/master/arktx.js
 
 wget https://raw.githubusercontent.com/corsaro1/ark_broadcast/master/arktx2.js
+
 mainnet (example 1, using curl):
 
 var=$(node arktx.js)
