@@ -28,4 +28,4 @@ curl -k -H "Content-Type: application/json" -H "version: 0.8.0" -H "port: 1" -H 
 
 mainnet (example 2, using "request"):
 
-node arktx2.js AbEtS8VA4LA1wgJWf4wA3JKyZrfvimp4Ht 1 "passphrase" "second"
+node arktx2.js AbEtS8VA4LA1wgJWf4wA3JKyZrfvimp4Ht 1 "passphrase" "secondpass"
