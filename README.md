@@ -1,6 +1,6 @@
 # ark_broadcast
 broadcast ark signed tx
-a very simple example on howto broadcast an already signed tx on ARK network (thanks for his precious help to fixcrypt and gr33ndrag0n)
+a very simple example on howto broadcast an already signed tx on ARK network (thanks for his precious help to fixcrypt and to gr33ndrag0n for his working ark node)
 
 sudo apt-get update
 
