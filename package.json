@@ -1,0 +1,26 @@
+{
+  "name": "ark_broadcast",
+  "version": "1.0.0",
+  "description": "broadcast ark signed tx a very simple example on howto broadcast an already signed tx on ARK network (thanks for his precious help to fixcrypt and to gr33ndrag0n for his working ark node)",
+  "main": "arktx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corsaro1/ark_broadcast.git"
+  },
+  "keywords": [
+    "ark"
+  ],
+  "author": "corsaro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/corsaro1/ark_broadcast/issues"
+  },
+  "homepage": "https://github.com/corsaro1/ark_broadcast#readme",
+  "dependencies": {
+    "arkjs": "github:arkecosystem/ark-js#master",
+    "request": "^2.81.0"
+  }
+}
