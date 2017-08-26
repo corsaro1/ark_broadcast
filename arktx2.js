@@ -18,6 +18,7 @@ var secondsecret = process.argv[5]
 
 
     var amount      = amountx * Math.pow(10, 8);
+    var amount = Math.round(amount);
     var transaction = ark.transaction.createTransaction(address, amount, null, secret, secondsecret );
 
     console.log(transaction);
